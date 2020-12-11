@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+			<title>M DESIGNS</title>
+			<link>index.html</link>
+			<description>Interior design company</description>
+		<item>
+			<title>M DESIGNS</title>
+			<link>index.html</link>
+			<description>Stay in track with our upcoming events!</description>
+		</item>
+		<item>
+			<title>PROJECTS</title>
+			<link>projects.html</link>
+			<description>Stay tuned, check out our new projects!</description>
+		</item>
+	</channel>
